@@ -1,0 +1,27 @@
+git clone:
+
+This command clones the repository from the Github portal to your local machine. For example in my case the directory 465-sjagdale got created in futuresystems
+
+git add:
+
+This command adds any changes made in the local/working directory to the staging area. The changes however are not recorded by this command
+
+git commit:
+
+git commit command commits everything in the staging area. A commit message also needs to be added. THis commands saves it in the local repository. It does not interact with the remote directory
+
+git push:
+
+In simple words, this command updates teh remote repository with the content in the staging area. 
+
+git pull:
+
+This command incorporates changes from the remote repository to the current branch. 
+
+---------------------------------------------------------------------------------------------
+
+Local Repository:
+Local repository is the repository that is present on the local machine. For us the local repository is the repository hosted on teh India machine.
+
+Remote Repository:
+This is the repository that is not present in the local machine and can be hosted on the internet or network somewhere. For us this is the repository on teh github server. Changes can be made to either repositories and trasferred to each other.
